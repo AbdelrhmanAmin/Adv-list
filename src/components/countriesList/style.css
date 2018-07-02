@@ -1,0 +1,10 @@
+table {
+  margin-left: 10px;
+  text-align: center;
+}
+
+table td{
+  padding: 10px 95px;
+  border-bottom: solid 1px #f3f3f3;
+  color: #737373;
+}

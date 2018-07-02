@@ -1,0 +1,6 @@
+.form{
+  display: flex;
+}
+form input {
+  margin: 40px;
+}
